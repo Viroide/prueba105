@@ -1,0 +1,15 @@
+{
+  "name": "prueba105",
+  "description": "prueba 105",
+  "main": "index.html",
+  "authors": [
+    "Yo"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
